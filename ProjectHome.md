@@ -1,0 +1,1 @@
+Player hit the Ball to break the wall of Brick until all the Bricks are destructed
